@@ -1,0 +1,120 @@
+fileFormatVersion: 2
+guid: 5f3b12a187d1ac44aafdd37d86c793ad
+timeCreated: 1465563803
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: CINEMA_4D_Editor
+    100002: Cube
+    100004: Joint
+    100006: Joint_1
+    100008: Joint_1_2
+    100010: Joint_1_3
+    100012: Joint_1_4
+    100014: Joint_1_5
+    100016: Joint_1_6
+    100018: Joint_2
+    100020: Joint_3
+    100022: Joint_4
+    100024: Joint_5
+    100026: Null
+    100028: Subdivision_Surface
+    100030: Subdivision_Surface_MeshPart0
+    100032: Subdivision_Surface_MeshPart1
+    100034: Subdivision_Surface_MeshPart2
+    100036: //RootNode
+    400000: CINEMA_4D_Editor
+    400002: Cube
+    400004: Joint
+    400006: Joint_1
+    400008: Joint_1_2
+    400010: Joint_1_3
+    400012: Joint_1_4
+    400014: Joint_1_5
+    400016: Joint_1_6
+    400018: Joint_2
+    400020: Joint_3
+    400022: Joint_4
+    400024: Joint_5
+    400026: Null
+    400028: Subdivision_Surface
+    400030: Subdivision_Surface_MeshPart0
+    400032: Subdivision_Surface_MeshPart1
+    400034: Subdivision_Surface_MeshPart2
+    400036: //RootNode
+    2300000: Cube
+    3300000: Cube
+    4300000: Cube
+    4300002: Subdivision_Surface_MeshPart0
+    4300004: Subdivision_Surface_MeshPart1
+    4300006: Subdivision_Surface_MeshPart2
+    7400000: C4D Animation Take
+    9500000: //RootNode
+    13700000: Subdivision_Surface_MeshPart0
+    13700002: Subdivision_Surface_MeshPart1
+    13700004: Subdivision_Surface_MeshPart2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
